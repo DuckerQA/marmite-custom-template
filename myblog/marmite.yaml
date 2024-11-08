@@ -1,0 +1,6 @@
+name: DuckerQA
+tagline: Let's destroy software togheter
+pagination: 10
+menu:
+  - ["blog", "index.html"]
+  - ["about", "about.html"]
